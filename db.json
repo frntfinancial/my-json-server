@@ -10,5 +10,16 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "tokens": [
+    {
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
+      "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
+      "expires_at": "2191-01-01T05:00:00.000Z"
+    }
+  ],
+  "users": [
+    { "id": 1, "email": "john.doe@example.com", "first_name": "John", "last_name": "Doe" },
+    { "id": 2, "email": "jane.doe@example.com", "first_name": "Jane", "last_name": "Doe" }
+  ]
 }
